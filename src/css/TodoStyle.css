@@ -1,0 +1,75 @@
+
+ .label {
+   font-size: 20px;
+   color: #444c89;
+   font-weight: bolder;
+   padding: 10px;
+ }
+
+ .custom-form {
+   width: 400px;
+   height: auto;
+   margin: 20px auto;
+ }
+
+ .input-and-btn {
+   display: flex;
+ }
+
+ .todo-box {
+   width: 400px;
+   margin: 0 auto;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   background-color: #cfc3c3;
+   border-radius: 11px;
+   padding: 2px;
+ }
+
+ .todo-box .content {
+   display: flex;
+ }
+
+ .todo-box .content h6 {
+   /* margin-top: -8px;  */
+   margin-left: 10px;
+ }
+
+ .todo-box span {
+   margin: 0 5px;
+ }
+
+ .iconedit {
+   color: mediumblue;
+ }
+
+ .icondelete {
+   color: red;
+ }
+
+ .delete-all {
+   width: 400px;
+ }
+
+ .actions-box {
+   cursor: pointer;
+ }
+
+ .back-btn {
+   margin-top: 5px;
+   width: 100%;
+ }
+
+ .deleteallmaindiv {
+   padding: 11px;
+ }
+
+ .btncmn {
+   margin-left: 7px;
+
+ }
+
+ .checkbox {
+   margin-left: 8px;
+ }
